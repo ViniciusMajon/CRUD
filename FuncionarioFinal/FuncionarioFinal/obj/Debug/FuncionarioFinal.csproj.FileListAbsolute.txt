@@ -1,0 +1,11 @@
+C:\Users\Vinicius Majon\source\repos\FuncionarioFinal\FuncionarioFinal\obj\Debug\FuncionarioFinal.csproj.AssemblyReference.cache
+C:\Users\Vinicius Majon\source\repos\FuncionarioFinal\FuncionarioFinal\obj\Debug\FuncionarioFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vinicius Majon\source\repos\FuncionarioFinal\FuncionarioFinal\obj\Debug\FuncionarioFinal.FUNCIONARIOS.resources
+C:\Users\Vinicius Majon\source\repos\FuncionarioFinal\FuncionarioFinal\obj\Debug\FuncionarioFinal.Properties.Resources.resources
+C:\Users\Vinicius Majon\source\repos\FuncionarioFinal\FuncionarioFinal\obj\Debug\FuncionarioFinal.csproj.GenerateResource.cache
+C:\Users\Vinicius Majon\source\repos\FuncionarioFinal\FuncionarioFinal\obj\Debug\FuncionarioFinal.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius Majon\source\repos\FuncionarioFinal\FuncionarioFinal\bin\Debug\FuncionarioFinal.exe.config
+C:\Users\Vinicius Majon\source\repos\FuncionarioFinal\FuncionarioFinal\bin\Debug\FuncionarioFinal.exe
+C:\Users\Vinicius Majon\source\repos\FuncionarioFinal\FuncionarioFinal\bin\Debug\FuncionarioFinal.pdb
+C:\Users\Vinicius Majon\source\repos\FuncionarioFinal\FuncionarioFinal\obj\Debug\FuncionarioFinal.exe
+C:\Users\Vinicius Majon\source\repos\FuncionarioFinal\FuncionarioFinal\obj\Debug\FuncionarioFinal.pdb
